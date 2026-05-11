@@ -89,8 +89,11 @@ All Courses and their materials are completely free, and all I ask is your suppo
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
-🌟 About Me
-Hi there! Faisal,
+## 🌟 About Me
+
+Hi there! I'm **Faisal Hilabi**. I’m an IT professional and passionate to share knowledge and make working with data enjoyable and engaging!
+
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-YouTube LinkedIn Website Newsletter PayPal Join
+[![LinkedIn](https://www.linkedin.com/in/faisalhilabi/)
+
